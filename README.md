@@ -1,19 +1,19 @@
-## Hi there 👋
-  
+# Hi there, I'm Aryan Chauhan! 👋
 
-Hello
+I'm a **Computer Science and Engineering** student at the **National Institute of Technology (NIT) Silchar**, passionate about software development, problem-solving, and expanding my technical skill set.
 
-<!--
-**AryanChauhanA/AryanChauhanA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 A little about me...
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** Building my foundational programming skills and tackling core computer science coursework.
+- 🌱 **I’m currently learning:** C, C++, Python, MATLAB, and Data Structures & Algorithms. 
+- 🛠️ **I enjoy exploring:** Self-hosting and Media Streaming setups.
+- 👯 **I’m looking to collaborate on:** Interesting software development projects and coding challenges.
+- 💬 **Ask me about:** C++, Python, self-hosted media, or navigating CSE coursework at NIT Silchar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+
+- **Programming Languages:** C, C++, Python, MATLAB
+- **Core Concepts & Interests:** Data Structures & Algorithms, Self-Hosting, Media Streaming
+
+### 📫 Let's Connect!
+*Feel free to explore my repositories or drop an issue if you want to collaborate!*
